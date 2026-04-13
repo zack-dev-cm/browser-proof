@@ -6,6 +6,19 @@ Browser Proof is a small public OpenClaw skill for browser QA and debugging. It 
 session into a machine-readable evidence bundle with steps, screenshots, console artifacts, network notes,
 and a shareable markdown report.
 
+## Proof
+
+```md
+# Browser Proof Report
+
+- Session: `demo-checkout`
+- Overall status: **passed**
+- Passed / Failed / Blocked: 1 / 0 / 0
+
+### 1. login-open
+- Artifacts: screenshot: `artifacts/login-page.png`
+```
+
 ## Quick Start
 
 ```bash
