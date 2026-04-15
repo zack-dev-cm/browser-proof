@@ -77,4 +77,4 @@ python3 skill/browser-proof/scripts/render_browser_proof_report.py \
 
 ## License
 
-MIT
+MIT No Attribution (MIT-0)
