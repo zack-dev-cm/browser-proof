@@ -72,6 +72,7 @@ python3 skill/browser-proof/scripts/render_browser_proof_report.py \
 
 - reproduce a browser bug with stronger evidence than screenshots in chat
 - document OpenClaw or Playwright QA runs before sign-off
+- document Chrome extension review flows with exact ZIP path, extension version, Chrome version, action clicked, selected text, and observed result
 - keep launch validation artifacts organized across multiple surfaces
 - hand off a failure to another engineer without rewriting the timeline from memory
 
