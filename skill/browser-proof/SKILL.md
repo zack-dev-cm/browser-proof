@@ -1,7 +1,7 @@
 ---
 name: browser-proof
 description: Browser Proof is a public ClawHub browser-QA evidence skill. Use it when the user says "browser proof", "browser QA report", "browser debugging evidence", or wants a machine-readable bundle with steps, artifacts, checks, and a shareable report.
-version: 1.0.4
+version: 1.0.5
 homepage: https://github.com/zack-dev-cm/browser-proof
 license: MIT-0
 user-invocable: true
